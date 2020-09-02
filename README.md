@@ -1,7 +1,7 @@
 # CMPSC 480: Assignment #1, the Career Narrative
 
 * Point value: 30 pts.
-* Due: 9 September 2020
+* Due: 11 September 2020
 
 ## Supporting readings
 
